@@ -3,7 +3,7 @@
 ## Hi, just run the follow command to see the js magic operate
 
 ```
-node app.js
+node day_1.js
 ```
 ### PS: You need to have node in your system
 
