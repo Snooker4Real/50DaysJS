@@ -1,3 +1,5 @@
+console.log("Day 11");
+
 function fibonacci(n) {
 	// write your solution here
 	if (n === 0) {
